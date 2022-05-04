@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/42b0426b-26e0-44be-a5af-3809d1048496/resourceGroups/djangowebapp/providers/Microsoft.Web/sites/upskillwomen",
+    "appService.deploySubpath": "."
+}
